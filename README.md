@@ -80,8 +80,14 @@ Display:
 - D2 - DC 
 - D3 - RST
 - D4 - CS
-- D5 - ...
-- D7 - ...
+- D5 - SDA
+- D7 - SCL
+
+Buzzer - D6
+
+Buttons:
+1. D1
+2. D8
 
 ## Libraries
 - ESP8266WiFi
