@@ -1,7 +1,7 @@
-# Portable notification center with ESP8266
+![изображение](https://github.com/user-attachments/assets/4767b5b8-5368-4064-8aab-496ef7c9800b)# Portable notification center with ESP8266
 
 
-- 3D models: *link*
+- 3D models: [*link*](https://github.com/spacebagel/PortableNotificationCenter_ESP8266/tree/main/3D%20models)
 - code: *link*
 
 ## Components
@@ -17,7 +17,7 @@
  
 ![buzzer](https://github.com/user-attachments/assets/798ce2ee-16f0-4e82-aad6-f2f15dd99fee)
 
-- Buttons x3
+- Buttons x2
 
 ![button](https://github.com/user-attachments/assets/bd7959df-eb6c-4532-9665-42a2b992ae7b)
 
@@ -25,17 +25,13 @@
 
 ![switch](https://github.com/user-attachments/assets/9275a60a-c271-44ae-b088-2c091feca2a4)
 
-- Short Micro-USB cabel - USB
-
-![usb_cabel](https://github.com/user-attachments/assets/a14816c0-8eea-4489-8ae7-7ae86cc9c9ab)
-
 - Lithium battery ICR18650 3,7V
 
 ![battery](https://github.com/user-attachments/assets/f993c509-e99c-40ca-8983-61a2c351906c)
 
-- Micro USB 5V 1A charge-discharge module
-
-![charge](https://github.com/user-attachments/assets/856e3f4e-1ae1-4509-8b76-e2eb3dda75b3)
+- USB Type-C 5V 2A charge-discharge module
+ 
+![charger](https://github.com/user-attachments/assets/56433555-d19b-489a-adc7-6d6defcabd63)
 
 - 18650 battery case
 
@@ -50,6 +46,8 @@
 - Solder
 - Rosin
 - Wires
+- 3 drops of glue
+- Screeds
 
 ## Software
 - FreeCAD (https://www.freecad.org)
