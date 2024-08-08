@@ -1,5 +1,8 @@
 # Portable notification center with ESP8266
 
+![red_case](https://github.com/user-attachments/assets/dbedbdee-807c-48a5-8b5c-2789b6ee7eb2)
+
+
 ## Description
 This project is my first experience in 3D modeling, 3D printing, making draft, microcontroller programming and soldering.
 
