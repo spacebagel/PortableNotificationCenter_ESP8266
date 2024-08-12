@@ -1,6 +1,10 @@
-# Portable notification center with ESP8266
+# 📻 Portable notification system with ESP8266
 
 ![red_case](https://github.com/user-attachments/assets/dbedbdee-807c-48a5-8b5c-2789b6ee7eb2)
+
+![case_front](https://github.com/user-attachments/assets/0d579c00-e042-44f2-9a17-e3de25dc6374)
+
+![case_back](https://github.com/user-attachments/assets/52dde88c-b11a-456f-92b8-1ba834443a6f)
 
 
 ## Description
