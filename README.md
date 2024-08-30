@@ -55,7 +55,7 @@ This project is my first experience in 3D modeling, 3D printing, making draft, m
 - Solder
 - Rosin
 - Wires
-- 3 drops of glue
+- Glue
 - Screeds
 
 ## Software
@@ -66,6 +66,10 @@ This project is my first experience in 3D modeling, 3D printing, making draft, m
 
 ## Setings
 Arduino IDE, selected board: 
+
+```
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+```
 
 ![board](https://github.com/user-attachments/assets/f5383f68-e8d3-464f-8066-7276657e37e0)
 
