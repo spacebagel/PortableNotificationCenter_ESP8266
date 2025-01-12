@@ -63,9 +63,12 @@ This project is my first experience in 3D modeling, 3D printing, making draft, m
 - PrusaSlicer (https://github.com/prusa3d/PrusaSlicer/releases)
 - Arduino IDE (https://www.arduino.cc/en/software)
 - CH340 Driver (https://sparks.gogo.co.nz/ch340.html)
+- RGB565 Picker (https://rgbcolorpicker.com/565)
 
 ## Setings
-Arduino IDE, selected board: 
+### Arduino IDE
+
+Selected board: 
 
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
@@ -76,15 +79,11 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ![board_more](https://github.com/user-attachments/assets/b3e62740-8841-4b0f-960f-630f44730f5b)
 
 
-PrusaSlicer: 
+### PrusaSlicer
 
 ![slicer_main](https://github.com/user-attachments/assets/134c0e7f-3a00-4365-b619-8da64940caf3)
 
 ![slicer_other](https://github.com/user-attachments/assets/55342bc1-92a6-46e7-a91f-9da44a4564af)
-
-
-## Stages 
-
 
 ## Pins
 Display: 
@@ -102,13 +101,15 @@ Buttons:
 
 ## Libraries
 - ESP8266WiFi
-- ESP8266HTTPClient
-- ArduinoJson
 - Adafruit_GFX
 - Adafruit_ST7735
-- WiFiClient
-- WiFiClientSecure
-- WiFiClientSecureBearSSL
+- WiFiUdp
+- NTPClient
+- ArduinoJson
+- beaconSpam
+
+> There may be a situation when the screen size and the information displayed do not match by a couple of pixels. Then you need to change the width and/or height value in the `Adafruit_ST77xx.h` file on a little bit more
+
 
 ## Guides
 
