@@ -11,7 +11,7 @@
 This project is my first experience in 3D modeling, 3D printing, making draft, microcontroller programming and soldering.
 
 - 3D models: [*link*](https://github.com/spacebagel/PortableNotificationCenter_ESP8266/tree/main/3D%20models)
-- code: *link*
+- code: [*link*](https://github.com/spacebagel/PortableNotificationCenter_ESP8266/tree/main/code)
 
 ## Components
 - NodeMcu v3 CH340
